@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mahi24-prog.github.io/csb-5m5i7b/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://mahi24-prog.github.io/csb-5m5i7b/static/js/main.d7c28a0d.chunk.js",
+    "main.js.map": "https://mahi24-prog.github.io/csb-5m5i7b/static/js/main.d7c28a0d.chunk.js.map",
+    "runtime-main.js": "https://mahi24-prog.github.io/csb-5m5i7b/static/js/runtime-main.c1a08cc8.js",
+    "runtime-main.js.map": "https://mahi24-prog.github.io/csb-5m5i7b/static/js/runtime-main.c1a08cc8.js.map",
+    "static/js/2.491a6b2c.chunk.js": "https://mahi24-prog.github.io/csb-5m5i7b/static/js/2.491a6b2c.chunk.js",
+    "static/js/2.491a6b2c.chunk.js.map": "https://mahi24-prog.github.io/csb-5m5i7b/static/js/2.491a6b2c.chunk.js.map",
+    "index.html": "https://mahi24-prog.github.io/csb-5m5i7b/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://mahi24-prog.github.io/csb-5m5i7b/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.491a6b2c.chunk.js.LICENSE.txt": "https://mahi24-prog.github.io/csb-5m5i7b/static/js/2.491a6b2c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1a08cc8.js",
+    "static/js/2.491a6b2c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.d7c28a0d.chunk.js"
+  ]
+}
